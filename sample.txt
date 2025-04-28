@@ -1,0 +1,2 @@
+# sample.txt
+This is the initial content for sample.txt.
