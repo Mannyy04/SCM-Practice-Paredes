@@ -1,3 +1,4 @@
 # sample.txt
 This is the initial content for sample.txt.
 Added a second line to sample.txt.
+This line was added on the feature-edit branch.
